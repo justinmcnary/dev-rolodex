@@ -1,0 +1,15 @@
+.search {
+  -webkit-appearance: none;
+  align-self: center;
+  width: 250px;
+  line-height: 30px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+@media only screen and (min-width: 600px) {
+  .search {
+    width: 500px;
+    margin-bottom: 30px;
+  };
+}

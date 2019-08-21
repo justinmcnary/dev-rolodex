@@ -32,7 +32,7 @@ export const Team = [
   {
     name: 'Chas Vales',
     id: 'dev5',
-    email: 'shvales@redventures.com',
+    email: 'chvales@redventures.com',
     type: 'front-end',
   },
   {

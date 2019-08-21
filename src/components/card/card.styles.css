@@ -8,7 +8,7 @@
   backface-visibility: hidden;
   transform: translateZ(0);
   transition: transform 0.25s ease-out;
-  max-width: 
+  position: relative;
 }
 
 .card-container:hover {
@@ -18,3 +18,35 @@
 .card-back {
   display: none;
 }
+
+.card-image {
+  position: relative;
+  width: 180px;
+  height: 180px;
+  margin: 0 auto;
+}
+
+.card-image:before {
+  content: "";
+  background-image: url("../../chain.png");
+  background-size: 100px auto;
+  background-repeat: no-repeat;
+  display: block;
+  z-index: 11;
+  position: absolute;
+  width: 180px;
+  height: 180px;
+  top: 127px;
+  left: 40px;
+}
+
+/* .has-chain {
+  background-image: url("../../chain.png");
+  background-size: 100px auto;
+  background-repeat: no-repeat;
+  display: block;
+  z-index: 11;
+  position: absolute;
+  width: 100px;
+  height: 200px;
+} */

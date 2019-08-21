@@ -4,6 +4,7 @@ export const Team = [
     id: 'dev00',
     email: 'jmcnary@redventures.com',
     type: 'front-end',
+    kudos: false,
   },
   {
     name: 'Tom Zmyslo',
@@ -16,6 +17,7 @@ export const Team = [
     id: 'dev2',
     email: 'bchapman@redventures.com',
     type: 'front-end',
+    kudos: true,
   },
   {
     name: 'DUBB Sims',

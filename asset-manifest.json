@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/dev-rolodex/static/css/main.533a3f8b.chunk.css",
-    "main.js": "/dev-rolodex/static/js/main.23782617.chunk.js",
-    "main.js.map": "/dev-rolodex/static/js/main.23782617.chunk.js.map",
+    "main.css": "/dev-rolodex/static/css/main.b818a5cc.chunk.css",
+    "main.js": "/dev-rolodex/static/js/main.ac7fad86.chunk.js",
+    "main.js.map": "/dev-rolodex/static/js/main.ac7fad86.chunk.js.map",
     "runtime~main.js": "/dev-rolodex/static/js/runtime~main.3ee586d6.js",
     "runtime~main.js.map": "/dev-rolodex/static/js/runtime~main.3ee586d6.js.map",
     "static/js/2.e1eafed3.chunk.js": "/dev-rolodex/static/js/2.e1eafed3.chunk.js",
     "static/js/2.e1eafed3.chunk.js.map": "/dev-rolodex/static/js/2.e1eafed3.chunk.js.map",
     "index.html": "/dev-rolodex/index.html",
-    "precache-manifest.c0f358bc62c6c65fd57ea89f6c60f125.js": "/dev-rolodex/precache-manifest.c0f358bc62c6c65fd57ea89f6c60f125.js",
+    "precache-manifest.243dde17fbab3afc81db415ef18fa022.js": "/dev-rolodex/precache-manifest.243dde17fbab3afc81db415ef18fa022.js",
     "service-worker.js": "/dev-rolodex/service-worker.js",
-    "static/css/main.533a3f8b.chunk.css.map": "/dev-rolodex/static/css/main.533a3f8b.chunk.css.map"
+    "static/css/main.b818a5cc.chunk.css.map": "/dev-rolodex/static/css/main.b818a5cc.chunk.css.map",
+    "static/media/card.styles.css": "/dev-rolodex/static/media/chain.f350594c.png"
   }
 }
